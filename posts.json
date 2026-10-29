@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "title": "Learn React",
+    "category": "Technology",
+    "description": "Learn React components and hooks."
+  },
+  {
+    "id": 2,
+    "title": "Healthy Living",
+    "category": "Lifestyle",
+    "description": "Tips for a healthy lifestyle."
+  },
+  {
+    "id": 3,
+    "title": "Web Design",
+    "category": "Technology",
+    "description": "Create beautiful websites."
+  }
+]
